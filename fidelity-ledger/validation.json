@@ -1,0 +1,103 @@
+{
+  "errors": [],
+  "warnings": [],
+  "facts": {
+    "skill_root": ".",
+    "discovery_entry": ".agents/skills/scent-composition-consultant",
+    "layout": "published-repo",
+    "master_body_tokens": 3411,
+    "master_budget": 4125,
+    "master_capabilities": 6,
+    "references": {
+      "reference-burr-perfect-scent.md": {
+        "tokens": 1708,
+        "cap": 14000,
+        "depth": "study",
+        "type": "text",
+        "sections": 3,
+        "budget": 5898
+      },
+      "reference-calkin-jellinek-perfumery.md": {
+        "tokens": 2978,
+        "cap": 14000,
+        "depth": "study",
+        "type": "text",
+        "sections": 20,
+        "budget": 10008
+      },
+      "reference-curtis-williams-introduction.md": {
+        "tokens": 2730,
+        "cap": 14000,
+        "depth": "study",
+        "type": "text",
+        "sections": 16,
+        "budget": 9300
+      },
+      "reference-ellena-alchemy.md": {
+        "tokens": 2035,
+        "cap": 14000,
+        "depth": "study",
+        "type": "text",
+        "sections": 11,
+        "budget": 8275
+      },
+      "reference-ellena-diary.md": {
+        "tokens": 1848,
+        "cap": 19500,
+        "depth": "study",
+        "type": "technical",
+        "sections": 2,
+        "budget": 6848
+      },
+      "reference-gilbert-nose-knows.md": {
+        "tokens": 1813,
+        "cap": 14000,
+        "depth": "study",
+        "type": "text",
+        "sections": 12,
+        "budget": 8496
+      },
+      "reference-herman-subversion.md": {
+        "tokens": 1746,
+        "cap": 14000,
+        "depth": "study",
+        "type": "text",
+        "sections": 3,
+        "budget": 5898
+      },
+      "reference-herz-desire.md": {
+        "tokens": 1642,
+        "cap": 14000,
+        "depth": "study",
+        "type": "text",
+        "sections": 8,
+        "budget": 7543
+      },
+      "reference-pybus-sell-fragrance-chemistry.md": {
+        "tokens": 2847,
+        "cap": 14000,
+        "depth": "study",
+        "type": "text",
+        "sections": 16,
+        "budget": 9300
+      },
+      "reference-turin-secret-scent.md": {
+        "tokens": 2335,
+        "cap": 14000,
+        "depth": "study",
+        "type": "text",
+        "sections": 53,
+        "budget": 14220
+      },
+      "reference-worwood-aromatherapy-soul.md": {
+        "tokens": 1981,
+        "cap": 14000,
+        "depth": "study",
+        "type": "text",
+        "sections": 12,
+        "budget": 8496
+      }
+    },
+    "books": 11
+  }
+}

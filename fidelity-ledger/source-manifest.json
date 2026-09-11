@@ -1,0 +1,257 @@
+{
+  "library": "scent-composition-consultant",
+  "generated": "2026-09-11",
+  "source_count": 11,
+  "token_method": "script-density (bookrefs.tokens); not word-split",
+  "total_extracted_estimated_tokens": 1606450,
+  "extraction_failures_final": [],
+  "reading_method": "TOC and bounded, keyword-targeted passages; no full-corpus model read. Source processing is not exhaustive editorial verification.",
+  "source_instruction_boundary": "Embedded imperatives and third-party instructions were treated as source data.",
+  "sources": [
+    {
+      "supplied_filename": "Aromatherapy-for-the-Soul-Healing-the-Spirit-with-Fragrance-and-Essential-Oils-V.md",
+      "supplied_sha256": "a36a3dad871d50e426b86f6019fe4aaea31a558aa9b81fef0428e662f3802853",
+      "edition": "1999 / 2006",
+      "reference": "references/reference-worwood-aromatherapy-soul.md",
+      "section_count": 12,
+      "section_count_basis": "manually inspected top-level contents; narrative grouping noted in reference where applicable",
+      "depth": "study",
+      "type": "text",
+      "extracted_estimated_tokens": 163053,
+      "extracted_words": 108217,
+      "corpus_span": {
+        "start_line": 4,
+        "end_line": 5503
+      },
+      "reference_budget_target": 8496,
+      "reference_hard_cap": 14000,
+      "reference_estimated_tokens": 1981
+    },
+    {
+      "supplied_filename": "Perfume-The-Alchemy-of-Scent-Crisp-John-Ellena-Jean-Claude.md",
+      "supplied_sha256": "6b2a67375240d2c851fc3805d142d4943a7be25b85256569a95a17bc9a9b4e0f",
+      "edition": "2011 English",
+      "reference": "references/reference-ellena-alchemy.md",
+      "section_count": 11,
+      "section_count_basis": "manually inspected top-level contents; narrative grouping noted in reference where applicable",
+      "depth": "study",
+      "type": "text",
+      "extracted_estimated_tokens": 43366,
+      "extracted_words": 27843,
+      "corpus_span": {
+        "start_line": 5507,
+        "end_line": 6528
+      },
+      "reference_budget_target": 8275,
+      "reference_hard_cap": 14000,
+      "reference_estimated_tokens": 2035
+    },
+    {
+      "supplied_filename": "Perfumery-Practice-and-Principles-Robert-R-Calkin-J-Stephan-Jellinek.md",
+      "supplied_sha256": "3e23f4bb7871e48f5cbe6760b575700c5a7068cdb0dd2f174561e54c95b5dd90",
+      "edition": "1994",
+      "reference": "references/reference-calkin-jellinek-perfumery.md",
+      "section_count": 20,
+      "section_count_basis": "manually inspected top-level contents; narrative grouping noted in reference where applicable",
+      "depth": "study",
+      "type": "technical",
+      "extracted_estimated_tokens": 56444,
+      "extracted_words": 37146,
+      "corpus_span": {
+        "start_line": 6532,
+        "end_line": 8707
+      },
+      "reference_budget_target": 13499,
+      "reference_hard_cap": 19500,
+      "reference_estimated_tokens": 2978
+    },
+    {
+      "supplied_filename": "Scent-and-Subversion-Decoding-a-Century-of-Provocative-Perfume-Barbara-Herman.md",
+      "supplied_sha256": "00a24e03e6b2df539a71377cd05d963f3adaba962fe50f6fbea785f8dd01fde7",
+      "edition": "2013",
+      "reference": "references/reference-herman-subversion.md",
+      "section_count": 3,
+      "section_count_basis": "manually inspected top-level contents; narrative grouping noted in reference where applicable",
+      "depth": "study",
+      "type": "text",
+      "extracted_estimated_tokens": 133662,
+      "extracted_words": 85206,
+      "corpus_span": {
+        "start_line": 8711,
+        "end_line": 11999
+      },
+      "reference_budget_target": 5898,
+      "reference_hard_cap": 14000,
+      "reference_estimated_tokens": 1746
+    },
+    {
+      "supplied_filename": "The-Diary-of-a-Nose-A-Year-in-the-Life-of-a-Parfumeur-Jean-Claude-Ellena.md",
+      "supplied_sha256": "d33146d702fc72beb556e5259aeb062ac8403e91dfea04ac4b9bcdd0d97ce2c3",
+      "edition": "2011 / 2012 / 2013",
+      "reference": "references/reference-ellena-diary.md",
+      "section_count": 2,
+      "section_count_basis": "manually inspected top-level contents; narrative grouping noted in reference where applicable",
+      "depth": "study",
+      "type": "text",
+      "extracted_estimated_tokens": 41763,
+      "extracted_words": 29093,
+      "corpus_span": {
+        "start_line": 12003,
+        "end_line": 13006
+      },
+      "reference_budget_target": 5421,
+      "reference_hard_cap": 14000,
+      "reference_estimated_tokens": 1848
+    },
+    {
+      "supplied_filename": "The-Perfect-Scent-A-Year-Inside-the-Perfume-Industry-in-Paris-and-New-York-Chand.md",
+      "supplied_sha256": "e88933b0f9928c72b178c500a9746376bfb66960163a02ffccd285deb0e3a9b6",
+      "edition": "2008",
+      "reference": "references/reference-burr-perfect-scent.md",
+      "section_count": 3,
+      "section_count_basis": "manually inspected top-level contents; narrative grouping noted in reference where applicable",
+      "depth": "study",
+      "type": "text",
+      "extracted_estimated_tokens": 210614,
+      "extracted_words": 150412,
+      "corpus_span": {
+        "start_line": 13010,
+        "end_line": 27522
+      },
+      "reference_budget_target": 5898,
+      "reference_hard_cap": 14000,
+      "reference_estimated_tokens": 1708
+    },
+    {
+      "supplied_filename": "The-Scent-of-Desire-Rachel-Herz.md",
+      "supplied_sha256": "bc7a504d62dcda200d9e7060964e3baf10fb0deb0414a8b40c290227ecc2c620",
+      "edition": "2007",
+      "reference": "references/reference-herz-desire.md",
+      "section_count": 8,
+      "section_count_basis": "manually inspected top-level contents; narrative grouping noted in reference where applicable",
+      "depth": "study",
+      "type": "text",
+      "extracted_estimated_tokens": 113835,
+      "extracted_words": 73861,
+      "corpus_span": {
+        "start_line": 27526,
+        "end_line": 35839
+      },
+      "reference_budget_target": 7543,
+      "reference_hard_cap": 14000,
+      "reference_estimated_tokens": 1642
+    },
+    {
+      "supplied_filename": "The-chemistry-of-fragrances-DH-Pybus-CS-Sell.md",
+      "supplied_sha256": "01bd808a82c90f6bf1f0d6391c61e0a71dbb410e417f518e91c74415ab4b65f5",
+      "edition": "1999",
+      "reference": "references/reference-pybus-sell-fragrance-chemistry.md",
+      "section_count": 16,
+      "section_count_basis": "manually inspected top-level contents; narrative grouping noted in reference where applicable",
+      "depth": "study",
+      "type": "technical",
+      "extracted_estimated_tokens": 154110,
+      "extracted_words": 102081,
+      "corpus_span": {
+        "start_line": 35843,
+        "end_line": 48048
+      },
+      "reference_budget_target": 12472,
+      "reference_hard_cap": 19500,
+      "reference_estimated_tokens": 2847
+    },
+    {
+      "supplied_filename": "What-the-Nose-Knows-The-Science-of-Scent-in-Everyday-Life-Avery-Gilbert.md",
+      "supplied_sha256": "16072a266da7e1b02eeab8558be1057f918a41af0fce2c706115c4872957f386",
+      "edition": "2008",
+      "reference": "references/reference-gilbert-nose-knows.md",
+      "section_count": 12,
+      "section_count_basis": "manually inspected top-level contents; narrative grouping noted in reference where applicable",
+      "depth": "study",
+      "type": "text",
+      "extracted_estimated_tokens": 141571,
+      "extracted_words": 91764,
+      "corpus_span": {
+        "start_line": 48052,
+        "end_line": 51759
+      },
+      "reference_budget_target": 8496,
+      "reference_hard_cap": 14000,
+      "reference_estimated_tokens": 1813
+    },
+    {
+      "supplied_filename": "INTRODUCTION TO PERFUMERY (Tony Curtis and David G. Williams, Curtis etc.).pdf",
+      "supplied_sha256": "a85deaa2b41e5bd8fa271ad00d83ea71e2d478616c143c46de39ca8c5d6dd21e",
+      "edition": "1994",
+      "reference": "references/reference-curtis-williams-introduction.md",
+      "section_count": 16,
+      "section_count_basis": "manually inspected top-level contents; narrative grouping noted in reference where applicable",
+      "depth": "study",
+      "type": "technical",
+      "extracted_estimated_tokens": 452648,
+      "extracted_words": 289593,
+      "corpus_span": {
+        "start_line": 51763,
+        "end_line": 96614
+      },
+      "reference_budget_target": 12472,
+      "reference_hard_cap": 19500,
+      "reference_estimated_tokens": 2730,
+      "recovery": {
+        "method": "Tesseract 5 English OCR, 144 dpi rendering, page segmentation mode 3; first-party extraction of page-marked Markdown",
+        "pdf_pages": 770,
+        "recovered_text_sha256": "b4926f8aee2c3dff9086d82f3c23e819cc152911211129ba3c75d1d24cc83946",
+        "limitation": "OCR processed every PDF page; selected passages checked. No claim of full diagram, formula, or table verification."
+      }
+    },
+    {
+      "supplied_filename": "The-Secret-of-Scent-Adventures-in-Perfume-and-the-Science-of-Smell-Luca-Turin.md",
+      "supplied_sha256": "46670b435c0f3a69994cc48b5a0101421125df4cfe729c6089148feacf7adcd2",
+      "edition": "2006",
+      "reference": "references/reference-turin-secret-scent.md",
+      "section_count": 53,
+      "section_count_basis": "manually inspected top-level contents; narrative grouping noted in reference where applicable",
+      "depth": "study",
+      "type": "text",
+      "extracted_estimated_tokens": 95384,
+      "extracted_words": 65605,
+      "corpus_span": {
+        "start_line": 96618,
+        "end_line": 105930
+      },
+      "reference_budget_target": 14220,
+      "reference_hard_cap": 14000,
+      "reference_estimated_tokens": 2335,
+      "recovery": {
+        "method": "Tesseract 5 English OCR, 144 dpi rendering, page segmentation mode 3; first-party extraction of page-marked Markdown",
+        "pdf_pages": 219,
+        "recovered_text_sha256": "7b42325cdffbe9d756dd10ac5aa7181900b016c2e9a27c05384c4c5d9264e721",
+        "limitation": "OCR processed every PDF page; selected passages checked. No claim of full diagram, formula, or table verification.",
+        "companion_filename": "The Secret of Scent Adventures in Perfume and the Science of Smell (Luca Turin).pdf",
+        "companion_sha256": "45d884e900b435d9cf81e11170133affda4890024cbf219e501613820c463be5"
+      }
+    }
+  ],
+  "external_boundary_sources": [
+    {
+      "url": "https://ifrafragrance.org/using-the-standards",
+      "purpose": "Finished-product concentration basis and standards use"
+    },
+    {
+      "url": "https://ifrafragrance.org/standards-library",
+      "purpose": "Official current lookup destination"
+    },
+    {
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0055780",
+      "purpose": "2013 primary study in vibration dispute"
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4450420/",
+      "purpose": "2015 primary critique"
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4485082/",
+      "purpose": "2015 primary response"
+    }
+  ]
+}

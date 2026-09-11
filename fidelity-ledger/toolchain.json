@@ -1,0 +1,13 @@
+{
+  "date": "2026-09-11",
+  "metatool_head": "18139b16d514344ab29e8096d8d21dcd9ede0e9b",
+  "note": "The metatool already had unrelated working-tree changes, including the published-repo validator, before this build. They were preserved and were not published to either remote by this task. Hashes identify the exact check implementations used.",
+  "tools": {
+    "scripts/extract.py": "01b1ebfff1ca9fddcda51544f9ddffee8fd242d99c48c8103faca85549da7ccf",
+    "tools/validate_library.py": "06a349f4ea6b97a0f6c0a71b95ebb157af91af33bf26433edda553d8edf7a335",
+    "tools/reference_budget.py": "f454b865dd222886a5909c0c158bc20a461210f7cc1048cf9e459ad348f89d9d",
+    "tools/count_tokens.py": "dafd46a8aab1e0a444ee7fae952830f4cc712419f3574f47cc7b91641f7d32f7",
+    "tools/scan_generated_skill.py": "be4a5a83dca864b535c8012d5f25643592662611ca92ea807b9d25487fa4304f"
+  },
+  "ocr": "Tesseract 5.5.2, English, 144 dpi, psm 3"
+}

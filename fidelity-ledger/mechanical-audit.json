@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-11",
+  "reference_count": 11,
+  "manifest_source_count": 11,
+  "relative_markdown_links_checked": 28,
+  "broken_relative_links": [],
+  "private_path_or_raw_asset_findings": [],
+  "discovery_symlink": "../..",
+  "symlink_resolves_to_repository": true,
+  "decimal_arithmetic_cases_passed": 2,
+  "exact_14_word_source_overlap_findings": {
+    "the perfect scent a year inside the perfume industry in paris and new york": [
+      "reference-burr-perfect-scent.md"
+    ],
+    "the diary of a nose a year in the life of a parfumeur jean": [
+      "reference-ellena-diary.md"
+    ],
+    "diary of a nose a year in the life of a parfumeur jean claude": [
+      "reference-ellena-diary.md"
+    ],
+    "of a nose a year in the life of a parfumeur jean claude ellena": [
+      "reference-ellena-diary.md"
+    ],
+    "the secret of scent adventures in perfume and the science of smell luca turin": [
+      "reference-turin-secret-scent.md"
+    ]
+  },
+  "limits": "Mechanical checks do not validate every claim, OCR page, sensory outcome, or legal requirement.",
+  "overlap_review": "All five fourteen-word matches are bibliographic title/author sequences. No substantive prose-copy sequence was found by this exact-match check; paraphrase fidelity still requires editorial review."
+}
