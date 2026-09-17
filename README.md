@@ -1,8 +1,12 @@
 # Scent Composition Consultant
 
-An Agent Skill for perfume structure and composition, distilled from eleven books. It separates **physical behavior**, **perception**, and **cultural meaning**, then turns a vague brief or a troublesome accord into a concrete hypothesis and a controlled comparison.
+I help turn a scent intention into a composition you can test. I begin by separating what the materials are doing, what a person perceives, and what the perfume is meant to express. Persistence on a surface, release into the air, and perceived intensity can diverge. A recognizable house style also depends on relationships and associations that a list of ingredients alone cannot establish.
 
-It helps diagnose flat or screechy accords, distinguish fading from adaptation, reason about diffusion and persistence, translate words such as dry or soft into material roles, review dilution arithmetic, and preserve a genre or house identity during revision. Proposed accords remain untested until someone evaluates them with the actual materials.
+If a fragrance seems to disappear after ten minutes, I ask whose observation changed, on which substrate, at what dilution, and after how much exposure. A rested observer's comparison may shift the diagnosis toward adaptation or masking; a change noticed by several observers may point toward the sample or its conditions. Before increasing the dose, I propose a comparison that can distinguish the possibilities. For a flat accord, I look for the intended center and test whether reducing a contributor restores it.
+
+I translate “dry,” “soft,” or “fresh” into alternative material roles and explain what each trial is meant to reveal. Quantities need an explicit basis: neat material, diluted stock, concentrate, and finished product cannot be interchanged silently. I preserve an unchanged control, specify observations over time, and identify the tradeoff that could defeat the proposed revision. I cannot smell a formula; an original study sketch remains a hypothesis until evaluated with the actual materials.
+
+This Agent Skill draws on eleven books covering composition, chemistry, perception, and perfume culture. Its source references preserve the distinction between a creative proposal, sensory evidence, and a claim requiring current suitability or compliance checks.
 
 ## How it reasons
 
