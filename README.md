@@ -8,7 +8,40 @@ I translate “dry,” “soft,” or “fresh” into alternative material role
 
 This Agent Skill draws on eleven books covering composition, chemistry, perception, and perfume culture. Its source references preserve the distinction between a creative proposal, sensory evidence, and a claim requiring current suitability or compliance checks.
 
-## How it reasons
+**Intention → material basis → perception → controlled trial → revision.**
+
+[Workflow](#how-it-works) · [Use cases](#use-it-for) · [Install](#installation) · [Examples](#example-requests) · [Repository map](#repository-layout) · [Sources](#sources-and-their-responsibilities) · [Validation](#coverage-and-validation)
+
+## How it works
+
+```mermaid
+flowchart TD
+    accTitle: Reasoning and delivery workflow
+    accDescr: The task and evidence guide domain reasoning, the output and review.
+    input["Scent brief, formula or timed observations"]
+    frame["Identify materials, dilution, substrate and exposure"]
+    reason["Separate physical, perceptual and cultural explanations"]
+    choice{"What comparison could distinguish the causes?"}
+    primary["Composition sketch or omission trial"]
+    alternative["Rested comparison or arithmetic correction"]
+    review["Preserve a control and review timed observations"]
+    input --> frame --> reason --> choice
+    choice --> primary
+    choice --> alternative
+    primary --> review
+    alternative --> review
+    review -.->|Revisit when evidence changes| reason
+    classDef focus fill:#e0f2fe,stroke:#0369a1,color:#0c4a6e
+    classDef output fill:#dcfce7,stroke:#15803d,color:#14532d
+    classDef decision fill:#fef3c7,stroke:#b45309,color:#78350f
+    class frame,reason focus
+    class primary,alternative output
+    class choice,review decision
+```
+
+Intention → material basis → perception → controlled trial → revision. The diagram summarizes the reasoning route; the question and available evidence determine which branches are useful.
+
+### How it reasons
 
 | Level | Questions | Evidence that helps |
 |---|---|---|
@@ -18,7 +51,16 @@ This Agent Skill draws on eleven books covering composition, chemistry, percepti
 
 The distinction changes the recommendation: more concentrate will not necessarily fix adaptation, more base material will not necessarily improve projection, and a challenging animalic contrast may be intentional.
 
-## Use
+## Use it for
+
+- Translate a scent brief into contrasting testable material directions.
+- Diagnose adaptation, masking, sample conditions and accord balance.
+- Check stock dilution and finished-product arithmetic.
+- Preserve aesthetic intent while comparing controlled revisions.
+
+## Installation
+
+### Use
 
 Clone the repository and open it as an agent project:
 
@@ -31,7 +73,7 @@ The root `AGENTS.md` directs domain conversations to the skill. The relative dis
 
 For a separate skill installation, place the complete canonical `SKILL.md` and `references/` tree together in a directory named `scent-composition-consultant` under your host's configured skill directory. Do not copy only the `.agents` alias out of the repository: its target is this repository root. If your checkout or host does not support symlinks, load root `SKILL.md` directly with the adjacent references available. Discovery and installation depend on host support.
 
-### Example requests
+## Example requests
 
 - “My woody floral is loud for ten minutes, then feels flat. Here are the weights, stock dilutions, and timed observations. Rank likely causes and propose three controlled trials.”
 - “Translate dry, soft fig into two contrasting material directions. Explain what to compare before giving a full formula.”
@@ -42,7 +84,31 @@ For a separate skill installation, place the complete canonical `SKILL.md` and `
 
 A useful formula submission includes quantities and units, exact material/grade, stock percentage and carrier, total, intended product concentration, substrate, sample age, application method, observation times, and desired changes. The consultant can still reason provisionally when some of this is unavailable.
 
-## Runtime and repository layout
+## Repository layout
+
+```mermaid
+flowchart LR
+    accTitle: Repository structure and runtime loading
+    accDescr: The canonical core routes to references, while supporting files and maintenance records have separate roles.
+    root["Scent-Composition-Consultant/"]
+    root --> core["SKILL.md<br/>Reasoning core and loading triggers"]
+    core -->|Loads relevant depth| refs["references/<br/>Runtime reference library"]
+    root --> support0["AGENTS.md<br/>Project guidance"]
+    root --> support1["fidelity-ledger/<br/>Provenance and evaluation"]
+    root --> support2["LICENSE<br/>License"]
+    root --> alias0[".agents/skills/scent-composition-consultant"]
+    alias0 -.->|Discovery alias| root
+    classDef runtime fill:#e0f2fe,stroke:#0369a1,color:#0c4a6e
+    classDef support fill:#f1f5f9,stroke:#64748b,color:#334155
+    class core,refs runtime
+    class support0,support1,support2 support
+```
+
+[Expert core](SKILL.md) · [Reference library](references/) · [Project guidance](AGENTS.md) · [Provenance and evaluation](fidelity-ledger/) · [License](LICENSE).
+
+The map reflects the repository’s existing architecture. Runtime references and human-facing maintenance or learning records have different loading roles.
+
+### Runtime and repository layout
 
 ```text
 SKILL.md                          # reasoning core and loading triggers
@@ -58,7 +124,38 @@ fidelity-ledger/                   # maintainer-only provenance and checks
 
 Only the core is intended to be routinely loaded. References load by task: technical diagnosis typically pairs a composition source with a perception source; cultural or ritual work opens different depth. The ledger is for auditing and maintenance, not automatic domain-answer context. There is one canonical copy of the runtime content.
 
-## Sources
+## Sources and their responsibilities
+
+```mermaid
+flowchart LR
+    accTitle: Sources and their primary responsibilities
+    accDescr: Task responsibilities connect the expert to its source material; groupings do not imply author agreement.
+    core["Expert core and task router"]
+    core --> g0["Composition and material behavior"]
+    g0 --> s0_0["Calkin &amp; Jellinek · Perfumery"]
+    g0 --> s0_1["Curtis &amp; Williams · Introduction to Perfumery"]
+    g0 --> s0_2["Pybus &amp; Sell · The Chemistry of Fragrances"]
+    g0 --> s0_3["Ellena · Perfume: The Alchemy of Scent"]
+    g0 --> s0_4["Ellena · The Diary of a Nose"]
+    classDef group0 fill:#ede9fe,stroke:#7c3aed,color:#4c1d95
+    class g0,s0_0,s0_1,s0_2,s0_3,s0_4 group0
+    core --> g1["Perception and hypotheses"]
+    g1 --> s1_0["Herz · The Scent of Desire"]
+    g1 --> s1_1["Gilbert · What the Nose Knows"]
+    g1 --> s1_2["Turin · The Secret of Scent"]
+    classDef group1 fill:#dcfce7,stroke:#15803d,color:#14532d
+    class g1,s1_0,s1_1,s1_2 group1
+    core --> g2["Culture and development"]
+    g2 --> s2_0["Herman · Scent and Subversion"]
+    g2 --> s2_1["Burr · The Perfect Scent"]
+    g2 --> s2_2["Worwood · Aromatherapy for the Soul"]
+    classDef group2 fill:#fef3c7,stroke:#b45309,color:#78350f
+    class g2,s2_0,s2_1,s2_2 group2
+    classDef focus fill:#e0f2fe,stroke:#0369a1,color:#0c4a6e
+    class core focus
+```
+
+Connections show primary contributions, not a required reading order or agreement among authors. Full source details and qualifications follow; source-specific depth is available in the reference library.
 
 | Role | Book and author | Edition represented | Reference |
 |---|---|---|---|
@@ -76,19 +173,23 @@ Only the core is intended to be routinely loaded. References load by task: techn
 
 The three-level consulting method is an original synthesis requested for this library. It is not falsely attributed to one of these authors. The references preserve meaningful differences among practical methods, aesthetic positions, psychological findings, critical interpretations, spiritual claims, and speculative theory.
 
-## Scope and limitations
+## Coverage and validation
+
+### Provenance and verification
+
+Built on 2026-09-11 with the [Books-to-Skill-Refs](https://github.com/ariel-lee-1023/Books-to-Skill-Refs) workflow and the published-repository profile. The supplied technical PDF required OCR; the Turin Markdown consisted of image placeholders and was recovered from a local companion scan. All 989 pages of those scans were processed. The first-party extraction runtime then ingested exactly eleven sources. Targeted reading informed the synthesis; processing a page does not mean every sentence or diagram was manually verified.
+
+Conversion artifacts, uncertain tables, source coverage, deliberate exclusions, and the limited external checks are documented in the [source and coverage ledger](fidelity-ledger/source-and-coverage-ledger.md). The [manifest](fidelity-ledger/source-manifest.json) records source hashes without private absolute paths. [Editorial evaluation](fidelity-ledger/evaluation.md) is explicitly distinguished from an independent model benchmark. [Validation results](fidelity-ledger/validation.json) cover layout, links, routing, sections, and token budgets; [security review](fidelity-ledger/security-review.md) records the source-instruction scan.
+
+## Limits
+
+### Scope and limitations
 
 This is a selective working knowledge library, not an exhaustive index of every book, a current material catalog, or a collection of verified commercial formulas. It cannot smell samples. Source examples do not establish that a proposed change works, and no bench or human sensory trials were conducted for this build.
 
 Historical formulas, material names, safety tables, market data, and company accounts need current verification before practical decisions. Formula arithmetic alone does not establish safe use. The skill distinguishes experimental dosage from current finished-product restrictions, using the [official IFRA guidance](https://ifrafragrance.org/using-the-standards) and [Standards Library](https://ifrafragrance.org/standards-library) as authoritative starting points when relevant.
 
 Turin's molecular-vibration hypothesis is presented as disputed, with a limited later-primary-research boundary. Worwood contributes attributed spiritual vocabulary and context, not validated healing protocols. Neither is merged into the physical/perceptual model as established fact. Clinical, legal, and regulatory decisions are outside what these books alone establish.
-
-## Provenance and verification
-
-Built on 2026-09-11 with the [Books-to-Skill-Refs](https://github.com/ariel-lee-1023/Books-to-Skill-Refs) workflow and the published-repository profile. The supplied technical PDF required OCR; the Turin Markdown consisted of image placeholders and was recovered from a local companion scan. All 989 pages of those scans were processed. The first-party extraction runtime then ingested exactly eleven sources. Targeted reading informed the synthesis; processing a page does not mean every sentence or diagram was manually verified.
-
-Conversion artifacts, uncertain tables, source coverage, deliberate exclusions, and the limited external checks are documented in the [source and coverage ledger](fidelity-ledger/source-and-coverage-ledger.md). The [manifest](fidelity-ledger/source-manifest.json) records source hashes without private absolute paths. [Editorial evaluation](fidelity-ledger/evaluation.md) is explicitly distinguished from an independent model benchmark. [Validation results](fidelity-ledger/validation.json) cover layout, links, routing, sections, and token budgets; [security review](fidelity-ledger/security-review.md) records the source-instruction scan.
 
 ## License
 
