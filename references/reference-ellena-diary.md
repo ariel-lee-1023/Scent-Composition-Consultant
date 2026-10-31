@@ -3,13 +3,13 @@
 **Edition**: French 2011; English translation Adriana Hunter, 2012; US edition 2013. The two top-level parts are the dated diary and A Summary of Smells.
 
 ## Mental Model (read first)
-Composition proceeds by selecting signs, testing their relations, living with uncertainty, and revisiting a developing form. A change in judgment can come from the observer, not only the formula. Ellena's diary makes revision visible: interpretation, sensory attention, material grade, and technical polishing continually interact.
+Composition proceeds by selecting signs, testing their relations, living with uncertainty, and revisiting a developing form. A change in judgment can come from the observer, not only the formula. Revision involves continual interaction among interpretation, sensory attention, material grade, and technical polishing.
 
 ## Frameworks & Structure
 ### The diary: pleasure, signs, and time
 - **Catchphrase-smells** attract attention quickly, but the worn perfume needs a continuing experience. A two-second retail impression and a full wearing are different assessments.
 - **Smells as signs**: green tea, mango, flint, or earth can be perceived without literal inclusion of the named object. The wearer completes the interpretation. Note recognition is not a claim that the formula contains an extract of that object.
-- **Gender codes**: Ellena treats masculine and feminine as conventions that can be crossed and appropriated. A label can influence interpretation; it is not a physical property of a material.
+- **Gender codes**: Masculine and feminine are conventions that can be crossed and appropriated. A label can influence interpretation; it is not a physical property of a material.
 - **Return after doubt**: when an unchanged draft suddenly affords no pleasure, set it aside and return. Do not reflexively reformulate to match every fluctuation in mood or exposure. Preserving versions lets a later judgment recover the intended direction.
 - **Subject and form**: a perfume may begin with a subject, or a form may precede its eventual story. In the diary's *Terre d'Hermès* account, a reserved woody structure and the word terre gradually acquire a shared narrative. The final marketing story need not be the literal chronological origin of every ingredient.
 
@@ -20,7 +20,7 @@ Composition proceeds by selecting signs, testing their relations, living with un
 - **Tactile effects**: the *Narcisse bleu* discussion juxtaposes green, abrasive, powdery, woody, and floral impressions. A tactile metaphor needs a smelled contrast and a composition that expresses it; it does not require the literal plant extract.
 
 ### A Summary of Smells: material relations
-Ellena offers blotter juxtapositions, not complete liquid formulas. The following selective map retains representative relations while grouping minor food variants. No ratio, safe dose, or current supplier specification is implied.
+The material sketches are blotter juxtapositions, not complete liquid formulas. The following selective map retains representative relations while grouping minor food variants. No ratio, safe dose, or current supplier specification is implied.
 
 | Intended sign | Materials in Ellena's examples | What the relation teaches |
 |---|---|---|

@@ -7,7 +7,7 @@ Perfumery is a technology-based art of communication inside a product and a busi
 ## Frameworks & Structure
 ### Chapter 3: Odours, Fragrances and Odour Vocabulary
 - **Odour types** refer to recognizable sources or environments, such as floral, tobacco, or waxy. A broad type needs refinement: floral alone does not distinguish rose from tuberose, hyacinth, or violet. Name a reference and describe the feature that matters.
-- **Odour characteristics** describe qualities such as light/heavy, sweet/dry, fresh/stale, or warm/cool. The authors teach these through smelled examples and contrasts. They are not chemical classes or mutually exclusive physical properties: vanillin can be sweet and also dry in a powdery sense.
+- **Odour characteristics** describe qualities such as light/heavy, sweet/dry, fresh/stale, or warm/cool. Smelled examples and contrasts give these terms practical meaning. They are not chemical classes or mutually exclusive physical properties: vanillin can be sweet and also dry in a powdery sense.
 - **Principal, secondary, and background notes** organize a material's profile; **characteristics** add another descriptive layer. These are salience labels, not automatically top, heart, and base evaporation phases.
 - **Vocabulary by comparison**: agree smelled references before treating a client word as a specification. The book's three-letter coding is an internal retrieval aid. A code without shared sensory training is not clearer than ordinary language.
 - **Anosmia**: distinguish general or specific inability to perceive an odor from temporary loss of sensitivity during exposure. The source's medical discussions are historical; a formulation consultation cannot diagnose sensory illness.
@@ -27,7 +27,7 @@ Perfumery is a technology-based art of communication inside a product and a busi
 - **Jean Carles's systematic blending of accords**: start with a purposeful pair, prepare graded weight ratios, evaluate, select a relation, then add a third contributor through another ratio series. If a new element disrupts balance, reconsider the relation rather than continuing to pile on materials.
 - **Fragrance enhancement**: a harsh ingredient can be presented in a more useful blend, provided the additions preserve the property that made it valuable. The effect of an isolated molecule is not a complete judgment on its usefulness in a composition.
 - **Individual technique**: choosing where to begin, what to compare, and when to stop belongs to composition. The order of physical mixing is a different production question. A recognizable personal style is not the only legitimate route to meeting a client's brief.
-- **Pyramid diagrams**: the book explicitly uses dotted boundaries to indicate interpenetration and gradual change between phases. Even this classical presentation does not require notes to switch on and off in sequence.
+- **Pyramid diagrams**: dotted boundaries indicate interpenetration and gradual change between phases. Even this classical presentation does not require notes to switch on and off in sequence.
 
 ### Chapters 11–13: Applications and Performance Evaluation
 - **Solutions, partition, emulsification, acidity and alkalinity**: a perfume meets a chemical environment. Solubility, distribution between phases, hydrolysis, and reactions can change odor and stability. A substitution must be tested in the intended matrix.

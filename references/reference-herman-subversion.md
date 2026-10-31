@@ -3,7 +3,7 @@
 **Edition**: 2013. Three parts: introduction, twentieth-century profiles, future of scent and subversion.
 
 ## Mental Model (read first)
-A perfume can express, negotiate, or disrupt social expectations through its contrasts and associations. Herman reads vintage perfumes alongside advertising, gender conventions, bodily imagery, and changing taste. Her descriptions are a critic's encounters with particular versions, not chemical analyses or timeless rules about what men and women should smell like.
+A perfume can express, negotiate, or disrupt social expectations through its contrasts and associations. Vintage perfumes acquire meaning alongside advertising, gender conventions, bodily imagery, and changing taste. **Interpretive scope:** the descriptions below are Herman's critical encounters with particular versions, not chemical analyses or timeless rules about what men and women should smell like.
 
 ## Frameworks & Structure
 ### Part I: Why vintage; scent as subversion
@@ -26,7 +26,7 @@ The profiles are organized into nine historical periods. This reference keeps th
 | 1980s: Paris, Poison, Paloma Picasso Mon Parfum | Scale, density, and presence participate in an expressive style. Reducing intensity can erase a intended effect as well as improve wearability. |
 | 1990–2000: CK One, L'Eau d'Issey, Laundromat | Water, transparency, cleanliness, and shared-gender imagery become important reference points for the book's account of changing norms. They remain historical observations, not present-market research. |
 
-- **Note lists versus review**: a stated note pyramid and a critic's sensory description are different sources of information. Neither establishes a formula. Herman sometimes reports aged samples with lost top notes; preserve that condition.
+- **Note lists versus review**: a stated note pyramid and a critic's sensory description are different sources of information. Neither establishes a formula. Some reviewed samples are aged and have lost top notes; preserve that condition.
 - **Contrasting gender codes**: leather and animalic facets can coexist with plush florals rather than resolving into a single masculine or feminine category. Treat such codes as audience- and era-dependent, and ask whether the user wants to preserve or challenge them.
 
 ### Part III: The Future of Scent and Subversion
@@ -38,7 +38,7 @@ The profiles are organized into nine historical periods. This reference keeps th
 - **Informed smelling and collecting**: compare versions, conditions, and the whole development. Historical regulatory claims in the vintage discussion are not current statements of law or IFRA status.
 
 ## Worked Example
-Herman reads **Jolie Madame** through the unresolved contrast between floral sweetness and leather/animalic toughness. Rather than assigning the perfume to a single gender, she interprets that coexistence against the social presentation of the 1950s woman. The transferable critical move is to identify the specific tension, examine how it is sustained, and explain what convention it complicates. The reading remains Herman's interpretation; it neither proves the formula nor tells every wearer what the scent must mean.
+**Jolie Madame** sustains an unresolved contrast between floral sweetness and leather/animalic toughness. Against the social presentation of the 1950s woman, that coexistence complicates assignment to a single gender. [Herman, twentieth-century profiles: Jolie Madame] The transferable critical move is to identify the specific tension, examine how it is sustained, and explain what convention it complicates. The reading remains Herman's interpretation; it neither proves the formula nor tells every wearer what the scent must mean.
 
 ## Decision Rules & Judgment
 - If a client calls an accord dirty, determine whether the complaint concerns an unwanted fault or an intended bodily contrast.

@@ -3,12 +3,12 @@
 **Edition**: 2008.
 
 ## Mental Model (read first)
-Claims about smell need observable endpoints, sensible comparisons, and skepticism about seductive stories. Sensitivity, identification, analysis of mixtures, imagination, memory, preference, and consumer response are different abilities. Gilbert's contribution is to turn broad claims about the nose into questions about exactly what a person can detect, name, remember, or do under specified conditions.
+Claims about smell need observable endpoints, sensible comparisons, and skepticism about seductive stories. Sensitivity, identification, analysis of mixtures, imagination, memory, preference, and consumer response are different abilities. Broad claims about the nose require specifying exactly what a person can detect, name, remember, or do under stated conditions.
 
 ## Frameworks & Structure
 ### Chapter 1: Odors in the Mind
 - **Counting smells**: familiar numerical claims about how many odors humans distinguish depend on what is counted and how discrimination is measured. Do not treat a memorable number as a capacity limit without a method.
-- **Laing Limit**: the book names the experimental difficulty of identifying more than a small number, approximately three or four, of familiar components in mixtures. This is a task-bound finding, not a hard maximum of four perfume ingredients or a ban on recognizing learned configurations.
+- **Laing Limit**: identifying familiar components in mixtures becomes experimentally difficult beyond a small number, approximately three or four. This is a task-bound finding, not a hard maximum of four perfume ingredients or a ban on recognizing learned configurations.
 - **Categories versus components**: naming a mixture rose or fougère can be easier than identifying all constituents. Expertise in recognizing a pattern does not supply a chemical assay. Failure to name a component does not show it has no perceptual effect.
 
 ### Chapter 2: The Molecules That Matter
@@ -21,7 +21,7 @@ Claims about smell need observable endpoints, sensible comparisons, and skeptici
 - **Specific anosmia**: a person with otherwise useful smell can have low or absent sensitivity to particular odorants. Do not infer a fixed condition from one informal sniff. Check the material, presentation, concentration, repeatability, and comparison observers.
 - **Genetic variation**: receptor differences can contribute to differences in intensity or quality; learning is not the only source of disagreement. The source's receptor counts and forecasts are period-specific, not current benchmarks.
 - **Sniffing and adaptation**: perception is affected by exposure and attention. Short, controlled comparisons with time away from the stimulus are more interpretable than prolonged repeated inhalation.
-- **Coffee-bean reset story**: Gilbert challenges the popular idea that another strong odor is a reliable reset button. Do not prescribe coffee as a demonstrated universal recovery method; a break in cleaner air avoids adding another stimulus.
+- **Coffee-bean reset story**: Another strong odor is not established as a reliable reset button. Do not prescribe coffee as a demonstrated universal recovery method; a break in cleaner air avoids adding another stimulus.
 
 ### Chapters 5–6: A Nose for the Mouth; The Malevolence of Malodor
 - **Retronasal olfaction** contributes to flavor when volatiles reach the nose from the mouth. A perfume can evoke food without producing taste. Sweet-smelling, sweet-tasting, and sugar-containing are distinct descriptions.
@@ -39,7 +39,7 @@ Claims about smell need observable endpoints, sensible comparisons, and skeptici
 - **Future of smelling**: receptor-based differences and new technologies motivate research, but forecasts are not validated products. Modern biological or commercial claims need current evidence.
 
 ## Worked Example
-In the mixture-identification experiments discussed in chapter 1, participants learn familiar odors separately and then attempt to identify components in progressively more complex mixtures. Even distinctive odors become hard to enumerate as mixture size grows. Gilbert uses this to separate collecting sensory information from consciously tracking the parts. For perfume diagnosis, a missing named note may reflect attentional or mixture-analysis limits; an omission comparison is more informative than declaring its ingredient absent.
+In the mixture-identification experiments discussed in chapter 1, participants learn familiar odors separately and then attempt to identify components in progressively more complex mixtures. Even distinctive odors become hard to enumerate as mixture size grows. Collecting sensory information and consciously tracking its parts are distinct abilities. For perfume diagnosis, a missing named note may reflect attentional or mixture-analysis limits; an omission comparison is more informative than declaring its ingredient absent.
 
 ## Decision Rules & Judgment
 - If two assessors disagree, separate sensitivity, descriptor meaning, exposure history, and preference before averaging the disagreement away.

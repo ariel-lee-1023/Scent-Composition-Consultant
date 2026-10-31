@@ -3,12 +3,12 @@
 **Edition**: 2007.
 
 ## Mental Model (read first)
-An odor's emotional significance depends strongly on experience, context, and learning. The same stimulus can acquire different meanings for different people. For a composition consultant, a reported impression is real evidence about that observer's experience, but it is not by itself a chemical diagnosis or proof of a universal psychological effect.
+An odor's emotional significance depends strongly on experience, context, and learning. The same stimulus can acquire different meanings for different people. A reported impression is evidence about that observer's experience; it does not by itself establish chemical identity or a universal psychological effect.
 
 ## Frameworks & Structure
 ### Chapters 1–2: The Sense of Desire; As You Like It
-- **Odor-emotional conditioning**: an odor associated with an emotional experience can later evoke a related response. Herz describes studies in which an unfamiliar odor paired with frustration subsequently affected motivation. The mechanism proposed is learned association, not an intrinsically frustrating molecule.
-- **Odor preference and experience**: early exposure, family, cultural use, and the setting of encounters shape liking. The source emphasizes learning strongly; retain that account without asserting that biology contributes nothing or that every preference can be reversed at will.
+- **Odor-emotional conditioning**: an odor associated with an emotional experience can later evoke a related response. In the reported studies, an unfamiliar odor paired with frustration subsequently affected motivation. The mechanism proposed is learned association, not an intrinsically frustrating molecule.
+- **Odor preference and experience**: early exposure, family, cultural use, and the setting of encounters shape liking. A strong role for learning does not imply that biology contributes nothing or that every preference can be reversed at will.
 - **Odor labels and context**: naming an odor changes expectations and may change interpretation. Separate a blind sensory description from an interpretation after a name, color, price, or brand is disclosed. A disagreement after labeling does not demonstrate a changed formula.
 - **Natural-versus-synthetic expectation**: the source or story can alter preference independently of a detectable difference. Compare perceived character and provenance requirements explicitly rather than treating either as the other.
 
@@ -33,7 +33,7 @@ An odor's emotional significance depends strongly on experience, context, and le
 - **Scent technology and application**: a plausible future use of smell is not an established intervention. Distinguish a product's intended experience from evidence that it changes behavior reliably.
 
 ## Worked Example
-Herz compares historical British and American ratings of wintergreen, whose characteristic odor is associated with methyl salicylate. The reported samples differed markedly in liking; she connects the British response with medicine and wartime associations, and the American response with candy and gum. The useful inference is that learned use-context can change a scent's emotional reading. The studies occurred in different periods and samples, so this is not a present-day rule that all British people dislike wintergreen or all Americans like it.
+Historical British and American ratings of wintergreen, whose characteristic odor is associated with methyl salicylate, differed markedly in liking. Medicine and wartime associations offer an interpretation of the British response; candy and gum offer an interpretation of the American response. [Chapter 2: As You Like It] The useful inference is that learned use-context can change a scent's emotional reading. The studies occurred in different periods and samples, so this is not a present-day rule that all British people dislike wintergreen or all Americans like it.
 
 ## Decision Rules & Judgment
 - If a fragrance seems medicinal to one person and comforting to another, investigate their references before changing the composition.

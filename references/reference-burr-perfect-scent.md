@@ -3,7 +3,7 @@
 **Edition**: 2008. Structural grouping: Beginnings, the interwoven development narrative, Epilogue; not a claim of three numbered chapters.
 
 ## Mental Model (read first)
-A commercial fragrance emerges from repeated negotiation among a perfumer, evaluators, a brand, technical constraints, distribution, and the intended public. Burr follows the development of Hermès's *Un Jardin sur le Nil* and Sarah Jessica Parker's *Lovely*. The two cases show different forms of creative authority and feedback; they are situated reporting, not a controlled comparison proving one business model superior.
+A commercial fragrance emerges from repeated negotiation among a perfumer, evaluators, a brand, technical constraints, distribution, and the intended public. The development cases are Hermès's *Un Jardin sur le Nil* and Sarah Jessica Parker's *Lovely*. The two cases show different forms of creative authority and feedback; they are situated reporting, not a controlled comparison proving one business model superior.
 
 ## Frameworks & Structure
 ### Beginnings: who wants what, and who decides?
@@ -19,7 +19,7 @@ A commercial fragrance emerges from repeated negotiation among a perfumer, evalu
 
 ### The New York development: Lovely
 - **Personal reference**: Parker's layered, musky personal scent provides concrete olfactory evidence beyond a celebrity image. The initially desired dark or dirty direction enters negotiation with a commercial product's intended audience and presentation.
-- **Mods**: serial modifications allow perfumers and evaluators to respond to comments. The book reports the participation of Laurent Le Guernec and Clément Gavarry in the IFF development following an earlier stage involving Dominique Ropion. Preserve collaboration rather than collapsing the project into a brand-only attribution.
+- **Mods**: serial modifications allow perfumers and evaluators to respond to comments. Laurent Le Guernec and Clément Gavarry participate in the IFF development following an earlier stage involving Dominique Ropion. [New York development narrative] Preserve collaboration rather than collapsing the project into a brand-only attribution.
 - **Prototype versus final product**: the chosen route reflects a series of selections. A private taste, an early trial, and the eventual retail fragrance are not interchangeable reference samples.
 - **Do not overread archetypes**: this celebrity project involves real olfactory attention; an in-house perfumer's project also has commercial constraints. Neither “celebrity” nor “artistic” determines the quality or independence of every decision.
 
@@ -27,7 +27,7 @@ A commercial fragrance emerges from repeated negotiation among a perfumer, evalu
 - **Supplier competition and cost**: development and sourcing pressures influence which materials and routes are feasible. Exact fees, prices, rankings, and supplier structures in the reporting are historical and should not be reused as current facts.
 - **Selection criteria**: distinguish creator preference, brand fit, consumer response, technical performance, and sales. Success on one does not prove success on the others. A pleasant mod may be the wrong mod for a defined identity.
 - **Marketing and distribution**: packaging, media support, retail exposure, and launch timing contribute to commercial outcomes. A sales ranking is not a direct experimental measure of compositional quality.
-- **Measurement coverage**: the book discusses sales datasets whose channel coverage excludes some important outlets. Before comparing numbers, determine geography, period, channels, and units. Do not interpret a partial ranking as the whole market.
+- **Measurement coverage**: the reported sales datasets exclude some important outlets from their channel coverage. Before comparing numbers, determine geography, period, channels, and units. Do not interpret a partial ranking as the whole market.
 
 ### Epilogue: what the outcome can establish
 - A completed fragrance demonstrates that the participants reached a workable decision; it does not reveal a unique optimal formula.
@@ -35,7 +35,7 @@ A commercial fragrance emerges from repeated negotiation among a perfumer, evalu
 - Development history provides examples of judgment under constraints. It cannot supply a proprietary formula or reliably predict a new project's demand.
 
 ## Worked Example
-Burr describes Ellena trying materials for the green-mango idea and finding effects different from the intended ones: a resinous expectation reads as mushroom, and a fruity attempt goes toward apricot. Ellena revises and presents distinct mango-related essais, including woody and lotus directions. Evaluators react to differences, keeping the next decision concrete. The lesson is to state a hypothesis, smell what the trial actually does, and provide alternatives whose differences can be discussed; the narrative supplies no reproducible full formula.
+In the green-mango development case, Ellena tries materials and finds effects different from the intended ones: a resinous expectation reads as mushroom, and a fruity attempt goes toward apricot. Ellena revises and presents distinct mango-related essais, including woody and lotus directions. Evaluators react to differences, keeping the next decision concrete. The lesson is to state a hypothesis, smell what the trial actually does, and provide alternatives whose differences can be discussed; the narrative supplies no reproducible full formula.
 
 ## Decision Rules & Judgment
 - If feedback says more luxurious, obtain a sensory comparison and define whether it concerns texture, strength, familiarity, packaging, or price positioning.

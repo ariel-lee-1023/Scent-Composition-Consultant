@@ -2,11 +2,11 @@
 **Format**: md | **Pages**: ~96 converted-text equivalents | **Sections**: 11 | **Depth**: study | **Type**: text
 
 ## Mental Model (read first)
-Ellena composes relationships among odors to make a recognizable, interpretable form. Nature supplies a pretext, and a small arrangement of materials can evoke something more convincingly than a literal reconstruction. His preference for restraint is an artistic method, not proof that every successful perfume must contain few materials.
+Relationships among odors make a recognizable, interpretable form. Nature supplies a pretext, and a small arrangement of materials can evoke something more convincingly than a literal reconstruction. Restraint is an artistic preference in this approach, not proof that every successful perfume must contain few materials.
 
 ## Frameworks & Structure
 ### Chapter V: The Trade
-- **From Know-how to Science**: analysis and copying can teach structure, but collecting ingredients is not the same as shaping a perfume. Ellena's study of Roudnitska leads him to remove superfluity and attend to how materials relate. Headspace analysis reveals natural complexity without obliging him to reproduce every component.
+- **From Know-how to Science**: analysis and copying can teach structure, but collecting ingredients is not the same as shaping a perfume. Removing superfluity brings the relations among materials into focus. Headspace analysis reveals natural complexity without requiring reproduction of every component. [Chapter V, discussion of Roudnitska]
 - **Finding a Pretext**: a place, material, memory, or idea starts a composition; it does not prescribe its formula. Tea can signify one world, flour another. These signs belong to a particular interpretation and audience, not to universally fixed geographical essences.
 - **Olfactory Illusions**: two or more materials can remain individually perceptible while generating an additional impression together. Explore diluted materials on separate blotters, then combine their headspaces and vary relative prominence. A blotter fan discovers a relation; it does not establish a mass formula or prove behavior after liquid blending.
 - **Writing Down a Perfume**: commit an imperfect first formulation, test it, and revise against the intended form. Waiting for a perfect first draft blocks useful work. The composition is perceived as an overlapping whole whose proportions and facets change with evaporation.
@@ -16,14 +16,14 @@ Ellena composes relationships among odors to make a recognizable, interpretable 
 - **Odor versus material**: a physical ingredient, its perceived smell, and the name or image assigned to it are different. A material can suggest several objects; an object can be evoked by several combinations. Avoid presenting a descriptive note as a verified constituent.
 - **Natural and synthetic materials**: essential oils, absolutes, isolates, and manufactured molecules extend different possibilities. An extraction is transformed by its process. Natural origin does not guarantee artistic richness, fidelity to a living flower, or safety.
 - **Analysis techniques**: chromatography and headspace can inform a reconstruction. They do not choose its aesthetic interpretation, and a chemically elaborate natural odor can inspire a sparse composition.
-- **Olfactory fields**: overlapping sets organized by perceived similarity, rather than rigid categories defined by one word. Ellena first groups material-name cards from memory, then reorganizes materials after blind smelling. The mismatch identifies gaps in remembered character.
+- **Olfactory fields**: overlapping sets organized by perceived similarity, rather than rigid categories defined by one word. First group material-name cards from memory, then reorganize the materials after blind smelling. The mismatch identifies gaps in remembered character.
 - **Referential Communication**: two participants receive the same small collection with differently randomized codes, then use verbal descriptions to find correspondences. The exercise tests whether a description lets another person identify an odor; it is stronger than merely producing an evocative adjective.
 - **Learning notebooks**: keep material-to-association notes distinct from performance observations and sensory qualities such as dense, thin, harsh, or soft. Training includes models and copying, followed by interpretation. A label without a smelled reference is a weak working tool.
 
 ### Chapters I, VI–VII: Modern Perfumery, Perfume, Time
 - **Birth of Modern Perfumery**: new manufactured materials enlarged the expressive vocabulary. The lesson is about possibility and historical change, not natural-versus-synthetic moral ranking.
 - **Classification and criticism**: families help describe relationships, while criticism evaluates a work's form and expression. A familiar category need not contain its historical ingredient set. Name the version and evaluation conditions when comparing examples.
-- **Head, heart, base critique**: Ellena objects to teaching a perfume as three successively activated layers. Materials of differing persistence coexist from the beginning. Use time labels for observed phases without assuming delayed release or fixed percentages.
+- **Head, heart, base critique**: A perfume does not consist of three successively activated layers. Materials of differing persistence coexist from the beginning. Use time labels for observed phases without assuming delayed release or fixed percentages.
 - **Linear and evolving compositions**: linear work preserves a relatively consistent impression; evolving work makes temporal change part of the expression. A linear fragrance is not inherently defective, and evolution is not automatically better. Decide whether continuity or transformation serves the brief.
 - **Time to create, sense, and buy**: development time, wearing time, and retail decision time impose different demands. An immediately compelling opening may help discovery while failing the longer experience. Period-specific statements about maturation or longevity are not universal process specifications.
 
@@ -34,7 +34,7 @@ Ellena composes relationships among odors to make a recognizable, interpretable 
 - **World-market players and protection**: distinguish fragrance creation, manufacturing, branding, and distribution; do not attribute every creative decision to the logo on the bottle. Company lists and intellectual-property discussions are historical context, not current commercial or legal advice.
 
 ## Worked Example
-For *Un Jardin sur le Nil*, Ellena describes a green mango encountered near Aswan as a pretext with resinous, citrus, carrot-like, and other facets. He rejects the predictable jasmine-and-spice stereotype of Egypt. The creative task becomes selecting relations that communicate that vivid green-fruit interpretation, rather than adding a mythical mango essential oil or reproducing every molecule in the fruit. This reconstructs his documented decision sequence; it does not provide the commercial formula.
+For *Un Jardin sur le Nil*, a green mango encountered near Aswan supplies a pretext with resinous, citrus, carrot-like, and other facets. Ellena rejects the predictable jasmine-and-spice stereotype of Egypt. The creative task becomes selecting relations that communicate that vivid green-fruit interpretation, rather than adding a mythical mango essential oil or reproducing every molecule in the fruit. This reconstructs his documented decision sequence; it does not provide the commercial formula.
 
 ## Decision Rules & Judgment
 - If a brief says natural, determine whether it asks for source origin, lifelike recognition, or an unforced aesthetic; those require different solutions.

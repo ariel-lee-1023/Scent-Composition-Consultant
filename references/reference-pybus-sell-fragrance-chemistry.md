@@ -2,7 +2,7 @@
 **Format**: md | **Pages**: 297 companion-PDF pages including front matter | **Sections**: 16 | **Depth**: study | **Type**: technical
 
 ## Mental Model (read first)
-Fragrance creation is an interdisciplinary product-development problem. The book follows a fictional customer brief through materials, composition, sensory research, applications, safety, physical chemistry, analysis, and submission. A successful odor must reach the nose from the intended product and satisfy the brief; neither an elegant molecule nor an attractive blotter settles that problem.
+Fragrance creation is an interdisciplinary product-development problem. A fictional customer brief connects materials, composition, sensory research, applications, safety, physical chemistry, analysis, and submission. A successful odor must reach the nose from the intended product and satisfy the brief; neither an elegant molecule nor an attractive blotter settles that problem.
 
 ## Frameworks & Structure
 ### Chapters 6–7: The Fragrance Brief; Perfume Creation
@@ -21,7 +21,7 @@ Fragrance creation is an interdisciplinary product-development problem. The book
 
 ### Chapter 11: Volatility and Substantivity — Keith D. Perring
 - **Vapor pressure**: a pure material's tendency to populate the vapor phase at a stated temperature. Molecular mass and boiling point can guide comparison, but mixture and substrate behavior need more information. Always keep the temperature and pressure conditions attached to physical data.
-- **Activity and solvent interaction**: an ingredient's escape into headspace depends on its concentration and its interactions with the medium. The book compares neat perfume oil with the same perfume in aqueous alcohol: relative headspace abundance changes, including the relative suppression of terpene alcohols. Diluting a composition can change its balance, not merely turn down its volume.
+- **Activity and solvent interaction**: an ingredient's escape into headspace depends on its concentration and its interactions with the medium. Comparing neat perfume oil with the same perfume in aqueous alcohol reveals changes in relative headspace abundance, including relative suppression of terpene alcohols. Diluting a composition can change its balance, not merely turn down its volume.
 - **Partitioning**: distribution between phases helps explain why an ingredient behaves differently in alcohol, oil, water, surfactants, and skin or fabric. **log P** is the logarithm of the octanol/water partition coefficient; it is a useful descriptor of affinity, not a direct measurement of longevity in a finished product.
 - **Hildebrand solubility parameter**: a measure related to cohesive energy density that can assist compatibility reasoning. **QPARs** (quantitative property–activity relationships) and **QSARs** connect measured or computed descriptors with observed behavior. Their predictive value is empirical and domain-limited; knowing log P alone does not yield a shampoo headspace curve.
 - **Substantivity and retention**: longevity on a surface depends on delivery, survival of rinsing or other use, retention, and release into perceptible headspace. A deposited material can be well retained but poorly available to smell. High volatility can help an initial impression while reducing its duration.
